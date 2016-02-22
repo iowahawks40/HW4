@@ -1,6 +1,6 @@
 <%-- 
-    Document   : index
-    Created on : Feb 22, 2016, 2:28:47 PM
+    Document   : read
+    Created on : Feb 22, 2016, 2:36:50 PM
     Author     : zhart
 --%>
 
@@ -9,11 +9,9 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Super Bowl Database</title>
+        <title>JSP Page</title>
     </head>
     <body>
-        <h1>Super Bowl Scores</h1>
-        
-        <a id="read" href="read.jsp"> View All Superbowls </a>
+        <h1>Hello World!</h1>
     </body>
 </html>
