@@ -1,7 +1,7 @@
 
 package model;
 
-public class superBowls {
+public class SBSCORES {
     
     private int SBNUMBER;
     private String WINNING_TEAM;
@@ -9,7 +9,7 @@ public class superBowls {
     private int WINNING_SCORE;
     private int LOSING_SCORE;
     
-    public superBowls() {
+    public SBSCORES() {
         this.SBNUMBER = 0;
         this.WINNING_TEAM = "";
         this.LOSING_TEAM = "";
@@ -19,7 +19,7 @@ public class superBowls {
     
     
 
-    public superBowls(int SBNUMBER, String WINNING_TEAM, String LOSING_TEAM, int WINNING_SCORE, int LOSING_SCORE) {
+    public SBSCORES(int SBNUMBER, String WINNING_TEAM, String LOSING_TEAM, int WINNING_SCORE, int LOSING_SCORE) {
         this.SBNUMBER = SBNUMBER;
         this.WINNING_TEAM = WINNING_TEAM;
         this.LOSING_TEAM = LOSING_TEAM;
@@ -69,7 +69,7 @@ public class superBowls {
 
     @Override
     public String toString() {
-        return "superBowls{" + "SBNUMBER=" + SBNUMBER + ", WINNING_TEAM=" + WINNING_TEAM + ", LOSING_TEAM=" + LOSING_TEAM + ", WINNING_SCORE=" + WINNING_SCORE + ", LOSING_SCORE=" + LOSING_SCORE + '}';
+        return "SBSCORES{" + "SBNUMBER=" + SBNUMBER + ", WINNING_TEAM=" + WINNING_TEAM + ", LOSING_TEAM=" + LOSING_TEAM + ", WINNING_SCORE=" + WINNING_SCORE + ", LOSING_SCORE=" + LOSING_SCORE + '}';
     }
     
     
