@@ -14,6 +14,6 @@
     <body>
         <h1>Super Bowl Scores</h1>
         
-        <a id="read" href="read.jsp"> View All Superbowls </a>
+        <a id="read" href="read"> View All Superbowls </a>
     </body>
 </html>
