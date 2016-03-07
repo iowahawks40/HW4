@@ -11,6 +11,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Super Bowl Database</title>
     </head>
+    <link rel="stylesheet" href="style.css" type="text/css">
     <body>
         <h1>Super Bowl Scores</h1>
         

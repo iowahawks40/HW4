@@ -67,7 +67,28 @@ public class ReadQuery {
         
         String table = "";
         
-        table += "<table border=1>";
+        table += "<table>";
+        
+        table += "<th>";
+        table += "SBNUMBER";
+        table += "</th>";
+        
+        table += "<th>";
+        table += "WINNING_TEAM";
+        table += "</th>";
+        
+        table += "<th>";
+        table += "LOSING_TEAM";
+        table += "</th>";
+        
+        table += "<th>";
+        table += "WINNING_SCORE";
+        table += "</th>";
+        
+        table += "<th>";
+        table += "LOSING_SCORE";
+        table += "</th>";
+        
         
         try {
             while(this.results.next()){

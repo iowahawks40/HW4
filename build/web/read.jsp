@@ -9,7 +9,7 @@
     
         <% String table = (String) request.getAttribute("table"); %>
         
-    
+    <link rel="stylesheet" href="style.css" type="text/css">
     <body>
         <h1>Super Bowl Database</h1>
         <%= table %>
