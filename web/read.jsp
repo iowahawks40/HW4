@@ -13,5 +13,10 @@
     <body>
         <h1>Super Bowl Database</h1>
         <%= table %>
+        
+        
+        <a href="add">Add a New Super Bowl</a>
+        
+        
     </body>
 </html>
