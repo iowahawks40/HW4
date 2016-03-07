@@ -17,16 +17,16 @@
         <form name="addForm" action="addSuperBowl" method="get">
               
               <label>Winning Team:</label>
-               <input type="text" name="Winning Team" value="" />
+               <input type="text" name="WINNING_TEAM" value="" />
                <br>
                <label>Losing Team:</label>
-               <input type="text" name="Losing Team" value="" />
+               <input type="text" name="LOSING_TEAM" value="" />
                <br>
                <label>Winning Score:</label>
-               <input type="number" name="Winning Score" value="" />
+               <input type="number" name="WINNING_SCORE" value="" />
                <br>
                <label>Losing Score:</label>
-               <input type="number" name="Losing Score" value="" />
+               <input type="number" name="LOSING_SCORE" value="" />
                <br>
                <input type="submit" name="submit" value="Submit" />
                

@@ -107,6 +107,10 @@ public class ReadQuery {
                 table += SBSCORES.getLOSING_SCORE();
                 table += "</td>";     
                 
+                table += "<td>";
+                table += "<a href=delete?SBNUMBER=" + SBSCORES.getSBNUMBER() + ">Delete </a>";
+                table += "</td>"; 
+                
                 
                 table += "</tr>";
                 
