@@ -129,7 +129,7 @@ public class ReadQuery {
                 table += "</td>";     
                 
                 table += "<td>";
-                table += "<a href=delete?SBNUMBER=" + SBSCORES.getSBNUMBER() + ">Delete </a>";
+                table += "<a href=update?SBNUMBER=" + SBSCORES.getSBNUMBER() + "> Update </a>" + "<a href=delete?SBNUMBER=" + SBSCORES.getSBNUMBER() + ">Delete </a>";
                 table += "</td>"; 
                 
                 
