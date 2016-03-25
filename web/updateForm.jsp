@@ -17,7 +17,7 @@
         <form name="updateForm" action="updateSuperBowl" method="get">
               
             <label>SuperBowl Number:</label>
-               <input type="text" name="SBNUMBER" value="<%= SBSCORES.getSBNUMBER()%>" />
+               <input type="text" name="SBNUMBER" value="<%= SBSCORES.getSBNUMBER()%>" readonly />
                <br>
               <label>Winning Team:</label>
                <input type="text" name="WINNING_TEAM" value="<%= SBSCORES.getWINNING_TEAM()%>" />

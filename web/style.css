@@ -73,6 +73,8 @@ a {
 
 hr {width:500px; noshade:no}
 
+input[readonly] {background-color:gray;}
+
 form{
     
     margin: 0 auto;
