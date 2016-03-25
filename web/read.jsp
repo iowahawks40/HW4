@@ -16,7 +16,8 @@
         
         
         <a href="add">Add a New Super Bowl</a>
-        
+        <br> <br>
+        <a href="search.jsp"> Search Superbowls </a>
         
     </body>
 </html>

@@ -16,5 +16,7 @@
         <h1>Super Bowl Scores</h1>
         
         <a id="read" href="read"> View All Superbowls </a>
+        <br> <br>
+        <a href="search.jsp"> Search Superbowls </a>
     </body>
 </html>
