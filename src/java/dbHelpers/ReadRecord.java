@@ -93,16 +93,10 @@ public void doRead(){
         }
     }
 
-public SBSCORES GETSBSCORES(){
+public SBSCORES getSBSCORES(){
     
     return this.SBSCORES;
-            
+}
 }
 
-    public SBSCORES getSBSCORES() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
-
-}
-
-
+  
