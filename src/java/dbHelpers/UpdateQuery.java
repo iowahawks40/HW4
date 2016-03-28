@@ -59,6 +59,8 @@ public class UpdateQuery {
             ps.setString(2, SBSCORES.getLOSING_TEAM());
             ps.setInt(3, SBSCORES.getWINNING_SCORE());
             ps.setInt(4, SBSCORES.getLOSING_SCORE());
+            ps.setInt(5, SBSCORES.getSBNUMBER());
+            
             
             ps.executeUpdate();
         } catch (SQLException ex) {

@@ -1,7 +1,7 @@
 <div class="header">
 	
 	<div class="headerImg">
-	<img src="bsanders.png" height="145px" />
+	<img src="includes/bsanders.png" height="145px" />
 	</div>
 	
 	<div class="headerText">

@@ -14,14 +14,20 @@
     <link rel="stylesheet" href="style.css" type="text/css">
     <body>
         <div class="wrap">
-        
-            
-        
-        <h1>Super Bowl Scores</h1>
-        
-        <a id="read" href="read"> View All Superbowls </a>
-        <br> <br>
-        <a href="search.jsp"> Search Superbowls </a>
+
+            <%@ include file="includes/header.jsp" %>
+
+            <%@ include file="includes/menu.jsp" %>
+
+            <div class="main">
+
+                <h1>Super Bowl Scores</h1>
+
+            </div>
+
+            <%@ include file="includes/footer.jsp" %>
+
+
         </div>
     </body>
 </html>

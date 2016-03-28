@@ -14,7 +14,7 @@
     <body>
         <h1>Update a New Super Bowl Record</h1>
         
-        <form name="updateForm" action="updateSuperBowl" method="get">
+        <form name="updateForm" action="UpdateSuperBowl" method="get">
               
             <label>SuperBowl Number:</label>
                <input type="text" name="SBNUMBER" value="<%= SBSCORES.getSBNUMBER()%>" readonly />
