@@ -10,10 +10,10 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <link rel="stylesheet" href="style.css" type="text/css">
-        <title>Search Friends</title>
+        <title>Search Super Bowls</title>
     </head>
     <body>
-        <h1>Search Friends</h1>
+        <h1>Search Super Bowls</h1>
         
         <form name="searchForm" action="search" method="get">
             

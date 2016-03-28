@@ -13,10 +13,15 @@
     </head>
     <link rel="stylesheet" href="style.css" type="text/css">
     <body>
+        <div class="wrap">
+        
+            
+        
         <h1>Super Bowl Scores</h1>
         
         <a id="read" href="read"> View All Superbowls </a>
         <br> <br>
         <a href="search.jsp"> Search Superbowls </a>
+        </div>
     </body>
 </html>
